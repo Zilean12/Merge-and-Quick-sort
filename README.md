@@ -5,4 +5,4 @@ Hello Guys! If you encounter any issues with your code or system, feel free to c
 
 Question -
 
-Write a python code to Quick and Merge Sort compare code and also analysis the BEST, WORST, AVEARGE CASE
+Write a python code to Quick and Merge Sort code and also analysis the BEST, WORST, AVEARGE CASE
